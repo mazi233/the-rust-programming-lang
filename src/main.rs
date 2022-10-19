@@ -10,7 +10,8 @@
 // mod smart_pointer;
 // mod fearless_concurrency;
 // mod oop;
-mod pattern;
+// mod pattern;
+mod higher_features;
 
 fn main() {
   // rectangles::main();
@@ -23,5 +24,6 @@ fn main() {
   // smart_pointer::main();
   // fearless_concurrency::main();
   // oop::main();
-  pattern::main();
+  // pattern::main();
+  higher_features::main();
 }
