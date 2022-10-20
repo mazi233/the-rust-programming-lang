@@ -47,14 +47,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "the_rust_programming_lang"
-version = "0.1.0"
-dependencies = [
- "hello_macro",
- "hello_macro_derive",
-]
-
-[[package]]
 name = "unicode-ident"
 version = "1.0.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
